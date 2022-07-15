@@ -6,5 +6,6 @@ public class DatatypeVarScanner {
 		System.out.println("Enter va value:");
 		x = sc.nextInt();
 		System.out.println("Value of x is:" + x);
+		sc.close();
 	}
 }
